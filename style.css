@@ -40,6 +40,14 @@ h3{
     text-transform: capitalize;
     
 }
+h4{
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 123.6%; 
+    text-transform: capitalize;
+}
 
 .yellow-bar{
     margin-top: 0px;
